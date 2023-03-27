@@ -1,5 +1,5 @@
 STRONGLINK:
-INTRODUCTION:
+INTRODUCTION:to stronglink
 Stronglink provides features of  strong control over data and storage management. It provides changes in the delivery of data in such a way that it could be secure,managable.It also helps to keep the data agile.
 PROJECT SUMMARY:
 WEBSITE	https://stronglink.com/
